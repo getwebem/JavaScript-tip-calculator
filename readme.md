@@ -7,3 +7,7 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
+ 
+ <br/><br/>
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/Tip-Calculator/Screen%20Shot%202017-03-13%20at%2011.29.36.png)
+<br/><br/>
